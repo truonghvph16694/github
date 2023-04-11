@@ -1,1 +1,19 @@
-abc
+git init: Khởi tạo một kho lưu trữ Git mới.
+
+git clone: Sao chép một kho lưu trữ từ xa vào máy tính của bạn.
+
+git add: Thêm một tệp hoặc thư mục vào vùng chờ để commit.
+
+git commit: Lưu trữ các thay đổi vào kho lưu trữ Git cục bộ.
+
+git push: Đẩy các commit mới nhất đến kho lưu trữ từ xa.
+
+git pull: Lấy các commit mới nhất từ kho lưu trữ từ xa và hợp nhất chúng với các commit cục bộ.
+
+git status: Hiển thị trạng thái hiện tại của kho lưu trữ.
+
+git log: Hiển thị lịch sử commit của kho lưu trữ.
+
+git branch: Tạo, xóa hoặc đổi tên của các nhánh.
+
+git checkout: Chuyển đổi sang một nhánh khác hoặc khôi phục một tệp đã bị xóa.
